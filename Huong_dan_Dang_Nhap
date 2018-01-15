@@ -1,0 +1,11 @@
+1. Dang nhap Admin:
+
+b1: http://localhost/tintuc/public/admin/dangnhap
+b2: username va password: admin@gmail.com va pass: admin123
+
+2. Dang nhap vao trang Nguoi dung:
+
+b1: http://localhost/tintuc/public/trangchu
+
+b2: neu muon dang nhap:  username---> admin@gmail.com 
+                         password---> admin123   
